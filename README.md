@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/productpreviewcardcomponent-l5SHUedN3W)
-- Live Site URL: [https://app.netlify.com/sites/product-preview-component-julizajz/settings/general)
+- Live Site URL: [https://product-preview-component-julizajz.netlify.app/)
 
 ## My process
 
